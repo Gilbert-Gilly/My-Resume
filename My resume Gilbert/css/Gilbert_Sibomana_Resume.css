@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(19, 19, 49);
+}
+#container{
+    display: table;
+    margin-top: auto;
+    align-items: center;
+    align-content: center;
+    margin-left: 150px;
+    margin-right: 150px;
+  
+    
+}
+#row_one{
+    display: table-row;
+    background-color: rgb(19, 19, 49);
+    max-width: 200px;
+    
+   
+ 
+}
+#right_one{
+    display: table-cell;
+    
+}
+#left_one{
+    display: table-cell;
+    float: left;
+    align-items: center;
+    align-content: center;
+   
+    
+    
+}
+#profile{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    
+
+}
+#sprow{
+    display: table-row;
+    background-color: rgb(69, 130, 156);
+   
+    
+}
+#spleft{
+    display: table-cell;
+}
+#row_two{
+    display: table-row;
+    background-color: rgb(189, 208, 216);
+    max-width: 200px;
+    
+    
+}
+
+#left_two{
+    display: table-cell;
+    background-color: rgb(139, 192, 214);
+    
+   
+    
+    
+
+
+}
+#right_two{
+    display: table-cell;
+    
+    
+    
+    
+    
+    
+}
+#title_m{
+    color:whitesmoke;
+    font-family: Century Gothic; 
+    font-size: 23px; 
+    max-width: 400px;
+    margin-left: 20px;
+    
+}
+#shortpar{
+    margin-left: 20px;
+    font-family: Century Gothic;
+    font-size: medium; 
+    margin-right: 50px;
+    
+}
+#longpar{
+    margin-left: 20px;
+    font-family: Century Gothic;
+    
+}
+#lasrow{
+    display: table-row;
+    background-color: rgb(147, 154, 156);
+   
+}
+#lasleft{
+    display: table-cell;
+    
+}
+#lasright{
+    display: table-cell;
+}
+
+#lasconter{
+    color:whitesmoke;
+    font-family: Century Gothic; 
+    font-size: 15px; 
+  
+    
+    
+}
+#lascontel{
+    color:whitesmoke;
+    font-family: Century Gothic; 
+    font-size: 15px; 
+    margin-left: 280px;
+}
